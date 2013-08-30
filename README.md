@@ -1,4 +1,4 @@
-sump
+SUMP
 ====
 
 Swedish Unicode Meta Programming
