@@ -2,4 +2,12 @@ SUMP
 ====
 
 Swedish Unicode Meta Programming
-Meatballs
+
+
+var object = {
+  soffa: 100
+}
+
+en ikea = {
+  soffa:100
+}
